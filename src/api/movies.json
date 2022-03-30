@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "The Flash",
+      "rating": 8.3,
+      "overview": "gel",
+      "imageURL": "https://m.media-amazon.com/images/M/MV5BMDIzNzYwNTctZWY4Mi00YjQ2LWI5YWYtMzdmNDgwMGI4Yzk1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Interstaller",
+      "rating": 8.5,
+      "overview": "git",
+      "imageURL": "https://tr.web.img2.acsta.net/pictures/14/10/09/15/52/150664.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Arrow",
+      "rating": 8.8,
+      "overview": "jkoş",
+      "imageURL": "https://m.media-amazon.com/images/M/MV5BMTI0NTMwMDgtYTMzZC00YmJhLTg4NzMtMTc1NjI4MWY4NmQ4XkEyXkFqcGdeQXVyNTY3MTYzOTA@._V1_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "ahmet",
+      "rating": 8.3,
+      "overview": "gel",
+      "imageURL": "https://m.media-amazon.com/images/M/MV5BMDIzNzYwNTctZWY4Mi00YjQ2LWI5YWYtMzdmNDgwMGI4Yzk1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "enes8",
+      "rating": "6",
+      "imageURL": "http://www.fashiongonerogue.com/wp-content/uploads/2013/03/LanaDelReyLofficiel2.jpg",
+      "overview": "asdasdzx",
+      "id": 7
+    },
+    {
+      "name": "enes1",
+      "rating": "1",
+      "imageURL": "http://www.fashiongonerogue.com/wp-content/uploads/2013/03/LanaDelReyLofficiel2.jpg",
+      "overview": "xqwe",
+      "id": 8
+    }
+  ]
+}
